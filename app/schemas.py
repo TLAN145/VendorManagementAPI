@@ -28,4 +28,4 @@ class Vendor(VendorBase):
     id: int
 
     class Config:
-        from_attributes = True  # заменяет устаревший orm_mode
+        from_attributes = True
