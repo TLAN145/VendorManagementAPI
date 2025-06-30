@@ -2,7 +2,7 @@
 
 A simple RESTful API built with FastAPI to manage vendor data.
 
-## 🚀 Features
+## Features
 
 - Create new vendors (POST `/vendors`)
 - Retrieve all vendors with optional pagination and search (GET `/vendors`)
@@ -10,7 +10,7 @@ A simple RESTful API built with FastAPI to manage vendor data.
 - Update vendor information (PUT `/vendors/{id}`)
 - Delete a vendor (DELETE `/vendors/{id}`)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.12
 - FastAPI
@@ -19,7 +19,7 @@ A simple RESTful API built with FastAPI to manage vendor data.
 - Pydantic v2
 - Uvicorn (ASGI server)
 
-## 📦 Setup and Installation
+## Setup and Installation
 
 1. **Clone the repository**:
    ```bash
